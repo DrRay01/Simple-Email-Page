@@ -1,0 +1,147 @@
+body{
+    position: relative;
+width: 1920px;
+height: 1080px;
+}
+
+.loginbox{
+    /* This is where you will style white Background Rectangle*/
+    position: absolute;
+    width: 529px;
+    height: 498px;
+    left: 695px;
+    top: 332px;
+    
+    background: #ffffff;
+    border-radius: 43px;
+}
+
+.HeaderBox{
+    /* This is the style code for the yellow top Header Rectangle */
+    position: absolute;
+width: 529px;
+height: 149px;
+left: 695px;
+top: 332px;
+
+background: #E2DA0D;
+border-radius: 43px 43px 0px 0px;
+}
+
+
+.Email{
+    /* This style code is for the Email Icon */
+
+
+position: absolute;
+width: 93px;
+height: 87px;
+left: 913px;
+top: 363px;
+}
+
+
+h3{
+    /* Here we want to style the Check Your Email text that is on the 
+    second yellow rectangle */
+
+
+position: absolute;
+width: 240px;
+height: 32px;
+left: 739px;
+top: 534px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 26px;
+line-height: 32px;
+/* identical to box height */
+
+color: #0B0953;
+}
+
+
+h2{
+    /* We’ve just send a link to amgeeky@gmail.com 
+    Verify your address and we’ll get you all set up! */
+
+position: absolute;
+width: 427px;
+height: 71px;
+left: 739px;
+top: 598px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 500;
+font-size: 17px;
+line-height: 21px;
+
+color: #000000;
+}
+
+.ResendRectangle{
+
+    /*  For where you will find the Resend Rectangle below the Resend 
+    text, this is the code to style it */
+
+position: absolute;
+width: 385px;
+height: 64px;
+left: 758px;
+top: 703px;
+
+background: #E2DA0D;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.6);
+border-radius: 11px;
+}
+
+.Resend{
+    /* The CSS style for the  Resend Confirmation Email */
+
+position: absolute;
+width: 260px;
+height: 26px;
+left: 787px;
+top: 710.5px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 18px;
+line-height: 22px;
+
+color: #0B0953;
+}
+
+.Arrow{
+    /* We are styliing the Arrow Icon on the resend confirmation link  */
+
+position: absolute;
+width: 25px;
+height: 24px;
+left: 1070px;
+top: 722.5px;
+
+}
+
+p{
+    /* Having trouble or confused? Let us know and we’ll help! */
+
+
+position: absolute;
+width: 427px;
+height: 27px;
+left: 744px;
+top: 858px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 500;
+font-size: 15px;
+line-height: 18px;
+
+color: #000000;
+}
